@@ -1,7 +1,8 @@
 # TSD
 
 ## Related information
-Here is the code of "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds" (``https://ieeexplore.ieee.org/abstract/document/9847261``), which proposes to learn a matching task-specific feature descriptor.
+<!--Here is the code of "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds" (``https://ieeexplore.ieee.org/abstract/document/9847261``), which proposes to learn a matching task-specific feature descriptor.-->
+Here is the TSD code.
 
 <!--Note: the code is being prepared. -->
 
@@ -32,7 +33,7 @@ python test.py --chosen_snapshot
 ## Acknowledgement
 The code is insipred by D3Feat, KPConv, etc.
 
-## Please cite:
+<!--## Please cite:
 ```
 @ARTICLE{zhang_tsd_tcsvt_2022,
   title={Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds},
@@ -42,4 +43,4 @@ The code is insipred by D3Feat, KPConv, etc.
   volume={32},
   number={12},
   pages={8462-8475}} 
-```
+```-->
